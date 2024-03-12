@@ -31,3 +31,5 @@
 ## Other Platforms
 
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/jasminsantos2)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarabey&theme=dark&show_icons=true)
