@@ -20,3 +20,6 @@
 - 💉 I studied pre-medicine
 - 🥑 I cook wonderfully
 - 💰 I like trading 
+
+## Favorite Quote
+- 🦋 The wings are yours, only when you learn to flourish, will you know how to use them to take flight 
