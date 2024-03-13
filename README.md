@@ -6,6 +6,8 @@
 - 📫 You can reach me via email at jasminarabeysantos@gmail.com.
 - 🫂 Lets connect [LinkedIn](https://www.linkedin.com/in/jasmin-santos-493a8925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/).
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jarabey&theme=dracula&border_radius=6.1)](https://git.io/streak-stats)
+
 ## Skills
 
 ### Graphic Design
@@ -18,6 +20,7 @@
 ### Accounting
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Xero Badge](https://img.shields.io/badge/Xero-13B5EA?logo=xero&logoColor=fff&style=for-the-badge)![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Bookkeeping-100000?style=for-the-badge&logo=&logoColor=white&labelColor=C70A0A&color=A256FF'/></a>
 
+ ![Jarabey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarabey&theme=dracula&hide=contribs,prs)
 
 ### Facts
 - ⚡ I can speak english and spanish
@@ -32,4 +35,4 @@
 
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/jasminsantos2)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarabey&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarabey&hide_progress=true&theme=dracula) 
