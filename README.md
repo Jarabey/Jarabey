@@ -6,11 +6,6 @@
 - 📫 You can reach me via email at jasminarabeysantos@gmail.com.
 - 🫂 Lets connect [LinkedIn](https://www.linkedin.com/in/jasmin-santos-493a8925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/).
 
-<p align="center">
-  <a href="https://github.com/jarabey">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarabey&theme=radical&border=7F3FBF&background=0D1117" alt="Jarabey's GitHub streak"/>
-  </a>
-</p>
 
 ## Skills
 
@@ -38,5 +33,7 @@
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/jasminsantos2)
 
 <p align="center">
-  <a href="https://github.com/jarabey"><img alt="Jarabey's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jarabey&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/jarabey">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarabey&theme=radical&border=7F3FBF&background=0D1117" alt="Jarabey's GitHub streak"/>
+  </a>
 </p>
