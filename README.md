@@ -24,10 +24,6 @@
 ### Accounting
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Xero Badge](https://img.shields.io/badge/Xero-13B5EA?logo=xero&logoColor=fff&style=for-the-badge)![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Bookkeeping-100000?style=for-the-badge&logo=&logoColor=white&labelColor=C70A0A&color=A256FF'/></a>
 
-<p align="center"> 
-    <a href="https://github.com/jarabey"><img alt="Jarabey's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jarabey&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
-
 ### Facts
 - ⚡ I can speak english and spanish
 - 💉 I studied pre-medicine
