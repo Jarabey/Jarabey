@@ -1,4 +1,4 @@
-# Welcome to Jarabey's GitHub Repository! 👋
+7# Welcome to Jarabey's GitHub Repository! 👋
 
 ## About Me
 - 👀 I’m interested in graphic design, front-end development, and accounting.
