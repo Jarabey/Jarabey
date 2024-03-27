@@ -30,6 +30,11 @@
 - 🦋 The wings are yours, only when you learn to flourish, will you know how to use them to take flight.
 
 
+
+## Other Platforms
+
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/jasminsantos2)
+
 <p align="center">
   <a href="https://github.com/jarabey">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarabey&theme=radical&border=7F3FBF&background=0D1117" alt="Jarabey's GitHub streak"/>
