@@ -32,9 +32,3 @@
 ## Other Platforms
 
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/jasminsantos2)
-
-<p align="center">
-  <a href="https://github.com/jarabey">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarabey&theme=radical&border=7F3FBF&background=0D1117" alt="Jarabey's GitHub streak"/>
-  </a>
-</p>
