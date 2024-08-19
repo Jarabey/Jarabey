@@ -4,7 +4,7 @@
 - 👀 I’m interested in graphic design, front-end development, and accounting.
 - 🌱 I’m currently learning accounting, Python and React.
 - 📫 You can reach me via email at jasminarabeysantos@gmail.com.
-- 🫂 Lets connect [LinkedIn](www.linkedin.com/in/jasmin-santos-70b343324).
+- 🫂 Let’s connect [LinkedIn](https://www.linkedin.com/in/jasmin-santos-70b343324).
 - 🌼 Check my [Portfolio](https://portfoliojasmin.netlify.app/)
 
 
