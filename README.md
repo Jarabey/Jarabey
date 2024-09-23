@@ -2,7 +2,7 @@
 
 ## About Me
 Hi there!  
-I'm **Jasmin Arabey Santos**, a graphic designer and aspiring developer. I love blending creativity with technology to build visually appealing and user-friendly websites. I'm currently focused on expanding my skills in front-end development, accounting, and Python.  
+I'm **Jasmin Santos**, a graphic designer and aspiring developer. I love blending creativity with technology to build visually appealing and user-friendly websites. I'm currently focused on expanding my skills in front-end development, accounting, and Python.  
   
 When I'm not working, I enjoy learning new tech concepts, building side projects, and sharing knowledge with the community through my portfolio and social platforms.  
   
