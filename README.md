@@ -4,8 +4,8 @@ I'm **Jasmin Santos**, a graphic designer and aspiring developer. I love blendin
   
 When I'm not working, I enjoy learning new tech concepts and building side projects.  
   
-- 👀 I’m interested in **graphic design**, **front-end development**, and **accounting**.  
-- 🌱 I’m currently learning **Python**, **React**, and **Accounting**.  
+- 👀 I’m interested in **graphic design**, **frontend development**, and **accounting**.  
+- 🌱 I’m currently learning more about frontend development with [Roadmap](https://roadmap.sh/).  
 - 🫂 Let’s connect: [LinkedIn](https://www.linkedin.com/in/jasmin-santos-70b343324).  
 - 🌼 Check my [Portfolio](https://portfoliojasmin.netlify.app/).  
 
