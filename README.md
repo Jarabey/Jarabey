@@ -7,7 +7,7 @@ When I'm not working, I enjoy learning new tech concepts and building side proje
 - 👀 I’m interested in **graphic design**, **frontend development**, and **accounting**.  
 - 🌱 I’m currently learning more about frontend development with [Roadmap](https://roadmap.sh/).  
 - 🫂 Let’s connect: [LinkedIn](https://www.linkedin.com/in/jasmin-santos-70b343324).  
-- 🌼 Check my [Portfolio](https://portfoliojasmin.netlify.app/).  
+- 🌼 Check my [Portfolio](https://arabeyportfolio.netlify.app/).  
 
 ## Fun Facts
 - ⚡ Bilingual: I speak English and Spanish.
