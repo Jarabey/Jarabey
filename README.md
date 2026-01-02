@@ -1,3 +1,3 @@
 ## About Me
 Hi there! 👋🏼
-I'm **Jasmin**, a graphic designer and aspiring developer. I love blending creativity with technology to build visually appealing and userfriendly websites. I'm currently focused on expanding my skills in frontend development.
+Hi there! 👋🏼 I’m **Jasmin**. I spend my time coding and trading, always working on sharpening my technical skills and learning new things.
